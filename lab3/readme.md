@@ -28,7 +28,7 @@
       ![-](/college1/lab3/pictures/6.png)
       ![-](college1/lab3/pictures/7.png)
       ![-](/college1/lab3/pictures/8.png)
-      ![-]()/college1/lab3/pictures/9.png
+      ![-](/college1/lab3/pictures/9.png)
       
 
 - 7.  приклади:
